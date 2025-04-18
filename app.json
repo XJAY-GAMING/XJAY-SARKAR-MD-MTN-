@@ -10,7 +10,7 @@
   "repository": "",
   "stack": "heroku-24",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {Sarkarmd$GJzwDnqt
       "description": "Paste here session ID that you have scanned",
       "required": true,
       "value": ""
